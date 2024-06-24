@@ -2,6 +2,7 @@
 wget -qO - http://ipecho.net/plain; echo
 curl https://ip.cn
 curl cip.cc
+curl https://api.ip2location.io/
 curl ipinfo.io
 curl myip.ipip.net
 curl ifconfig.co
